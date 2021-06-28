@@ -5,7 +5,6 @@ from numpy.random import randn
 from numpy import zeros, zeros_like, trace
 from scipy.linalg import expm, expm_frechet, null_space
 
-from NaturalTangent.manifolds.tools import sbmat
 from ManNullRange.manifolds.NullRangeManifold import NullRangeManifold
 from ManNullRange.manifolds.tools import (sym)
 
@@ -17,7 +16,20 @@ def _calc_dim(dvec):
             s += dvec[i]*dvec[j]
     return s
 
-    
+
+def sbmat(obj):
+    """ Simpler version of numpy.bmat.
+    Return an array instead of matrix
+    """
+    arr_rows = []
+    for row in obj:
+        if isinstance(row, np.ndarray):  # not 2-d
+            return np.concatenate(obj, axis=-1)
+        else:
+            arr_rows.append(np.concatenate(row, axis=-1))
+    return np.concatenate(arr_rows, axis=0)
+
+
 class RealFlagOpt(NullRangeManifold):
     """ This actually is Stiefel, with H and GammaH, B and Augmented
     
