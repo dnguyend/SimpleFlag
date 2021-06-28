@@ -292,3 +292,32 @@ def optim_q_test():
         opt = solver.solve(prob, x=XInit, Delta_bar=250)
         
 
+def parse():
+    with open('test_res.txt') as fi:
+        lns = fi.readlines()
+    ret = {}
+    cnt = 0
+
+    def parse_line(alist):
+        save_item = []
+        for a in alist:
+            try:
+                save_item.append(float(a))
+            except Exception as e:
+                pass
+        return save_item
+    
+    for i in range(len(lns)):
+        if lns[i].startswith('Terminated'):
+            save_item = parse_line(lns[i].split())
+        elif lns[i].startswith('alp'):
+            ret[cnt] = {'al': float(lns[i].split()[2][:-1]),
+                        'items': save_item}
+            cnt += 1
+    lnr = len(ret)
+    dat = np.zeros((lnr, 3))
+    for i in sorted(ret):
+        dat[i, 0] = ret[i]['al']
+        dat[i, 1] = ret[i]['items'][0]
+        dat[i, 2] = ret[i]['items'][1]        
+        

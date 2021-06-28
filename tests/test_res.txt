@@ -1,0 +1,236 @@
+Optimizing...
+Terminated - min grad norm reached after 25 iterations, 8.80 seconds.
+
+alp =[1.   0.12] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 23 iterations, 10.36 seconds.
+
+alp =[1.   0.14] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 20 iterations, 10.23 seconds.
+
+alp =[1.   0.16] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 19 iterations, 8.95 seconds.
+
+alp =[1.   0.18] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 17 iterations, 7.74 seconds.
+
+alp =[1.  0.2] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 18 iterations, 9.09 seconds.
+
+alp =[1.   0.22] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 18 iterations, 9.33 seconds.
+
+alp =[1.   0.24] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 19 iterations, 9.67 seconds.
+
+alp =[1.   0.26] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 19 iterations, 11.41 seconds.
+
+alp =[1.   0.28] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 19 iterations, 9.55 seconds.
+
+alp =[1.  0.3] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 19 iterations, 10.43 seconds.
+
+alp =[1.   0.32] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 17 iterations, 8.99 seconds.
+
+alp =[1.   0.34] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 8.80 seconds.
+
+alp =[1.   0.36] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 9.33 seconds.
+
+alp =[1.   0.38] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 8.42 seconds.
+
+alp =[1.  0.4] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 17 iterations, 12.21 seconds.
+
+alp =[1.   0.42] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 9.57 seconds.
+
+alp =[1.   0.44] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.03 seconds.
+
+alp =[1.   0.46] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.64 seconds.
+
+alp =[1.   0.48] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 8.42 seconds.
+
+alp =[1.  0.5] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.01 seconds.
+
+alp =[1.   0.52] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 7.90 seconds.
+
+alp =[1.   0.54] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 8.08 seconds.
+
+alp =[1.   0.56] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 8.03 seconds.
+
+alp =[1.   0.58] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 8.92 seconds.
+
+alp =[1.  0.6] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.92 seconds.
+
+alp =[1.   0.62] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.58 seconds.
+
+alp =[1.   0.64] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.62 seconds.
+
+alp =[1.   0.66] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.78 seconds.
+[O
+alp =[1.   0.68] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 7.54 seconds.
+
+alp =[1.  0.7] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 11.02 seconds.
+
+alp =[1.   0.72] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.42 seconds.
+
+alp =[1.   0.74] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 11.10 seconds.
+
+alp =[1.   0.76] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 8.01 seconds.
+
+alp =[1.   0.78] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 10.29 seconds.
+
+alp =[1.  0.8] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 10.77 seconds.
+
+alp =[1.   0.82] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 11.38 seconds.
+
+alp =[1.   0.84] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 11.72 seconds.
+
+alp =[1.   0.86] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 11.90 seconds.
+
+alp =[1.   0.88] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 17 iterations, 13.74 seconds.
+
+alp =[1.  0.9] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 17 iterations, 13.64 seconds.
+
+alp =[1.   0.92] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 11.17 seconds.
+
+alp =[1.   0.94] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 10.76 seconds.
+
+alp =[1.   0.96] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.31 seconds.
+
+alp =[1.   0.98] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 12.00 seconds.
+
+alp =[1. 1.] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.71 seconds.
+
+alp =[1.   1.02] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.45 seconds.
+
+alp =[1.   1.04] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.14 seconds.
+
+alp =[1.   1.06] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.05 seconds.
+
+alp =[1.   1.08] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.14 seconds.
+
+alp =[1.  1.1] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 8.56 seconds.
+
+alp =[1.   1.12] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 14 iterations, 9.90 seconds.
+
+alp =[1.   1.14] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 11.73 seconds.
+
+alp =[1.   1.16] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 14.93 seconds.
+
+alp =[1.   1.18] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 10.14 seconds.
+
+alp =[1.  1.2] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 15 iterations, 9.92 seconds.
+
+alp =[1.   1.22] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 13.70 seconds.
+
+alp =[1.   1.24] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 14.17 seconds.
+
+alp =[1.   1.26] cost =40.120000
+Optimizing...
+Terminated - min grad norm reached after 16 iterations, 13.68 seconds.
+
+alp =[1.   1.28] cost =40.120000
